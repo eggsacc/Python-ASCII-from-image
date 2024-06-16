@@ -19,7 +19,7 @@ Enter `pip install opencv` in terminal to update / install OpenCV.
 
 Doug            |  ASCII Doug
 :-------------------------:|:-------------------------:
-<img src="https://github.com/eggsacc/Python-ASCII-from-image/assets/128606148/44c61bb3-3e8c-4de0-ad62-d9d83c059fb5" width="500" height="500" /> |  <img src="https://github.com/eggsacc/Python-ASCII-from-image/assets/128606148/ebcfe814-d365-49ad-ad0d-a850b42fd313" width="500" height="500" />
+<img src="https://github.com/eggsacc/Python-ASCII-from-image/assets/128606148/44c61bb3-3e8c-4de0-ad62-d9d83c059fb5" width="400" height="400" /> |  <img src="https://github.com/eggsacc/Python-ASCII-from-image/assets/128606148/ebcfe814-d365-49ad-ad0d-a850b42fd313" width="400" height="400" />
 
 <br></br>
 ## How it works
